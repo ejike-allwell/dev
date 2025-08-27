@@ -1,8 +1,37 @@
+/*FOR SMALL SCREENS*/
+
 @media screen and (min-width:200px) and (max-width:1000px) {
+    body{
+        display: grid;
+        position: relative;
+        justify-content: center;
+        align-content: center;
+        background-color: #d5e1ef;
+    }
+    h1{
+        font-size: large;
+        text-align: center;
+    }
+    p{
+        text-align: center;
+    }
+    .container{
+        padding: 10px;
+        border-radius:20px;
+        width: 260px;
+        background-color: white;
+        margin-top: 20vh;
+        box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.1);
+       margin-bottom: 20vh;
+    }
     img{
-        border-radius: 50px;
+        border-radius:20px;
+        width: 250px;
+        justify-self: center;
+        margin-left: 5px;
     }
 }
+
 @media screen and (min-width:1050px) and (max-width:2500px) {
     img{
         width:70%;
