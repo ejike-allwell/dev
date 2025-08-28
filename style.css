@@ -20,9 +20,8 @@
         border-radius:20px;
         width: 260px;
         background-color: white;
-        margin-top: 20vh;
         box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.1);
-       margin-bottom: 20vh;
+        transform: translate(0%, 50%);
     }
     img{
         border-radius:20px;
