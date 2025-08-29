@@ -43,3 +43,20 @@ After the successfull creation and basic structuring, i proceeded to first makin
 - CSS Grid
 - Vscode
 - Mobile preview(an extension in vs code)
+
+## What i learned 
+
+I learned how to make a webpage resposive with the use of media queries, grid-display, transformation and positioning. 
+
+## Continued development 
+
+I would love to continue learning about responsive web design(RWD) and more importantly also learn about positioning and transformatons.
+
+## Author 
+
+-Frontend Mentor - [@ejike-allwell](https://www.frontendmentor.io/profile/ejike-allwell)
+-Twitter - [@ejike897067](https://x.com/ejike897067)
+
+## Acknowledgments
+
+The one tip i want to share, is to always read the brief, preview or even reviews. It will save you quite a huge amount of stress and i speaking out of experience
