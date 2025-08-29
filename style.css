@@ -16,12 +16,14 @@
         text-align: center;
     }
     .container{
+        
+        position: absolute;
         padding: 10px;
         border-radius:20px;
         width: 260px;
         background-color: white;
         box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.1);
-        transform: translate(0%, 50%);
+        transform: translate(45px,170px);
     }
     img{
         border-radius:20px;

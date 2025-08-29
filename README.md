@@ -25,8 +25,8 @@ This project is a responsive web application built as part of the Frontend Maste
 ![mobile-view](images/mobile.png)
 
 ### links
-
-empty for now
+- Github  URL:(https://github.com/ejike-allwell/dev.git)
+- Live Site URL:(https://dev-rouge-ten.vercel.app/)
 
 ## My process 
 I created a different folder for this solution. Inside this folder i initialized a git repositiory, created a HTML, and CSS files, and i staged and commit these newly created files.
