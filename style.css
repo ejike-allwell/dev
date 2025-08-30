@@ -1,0 +1,28 @@
+/* mobile devices amd desktops */
+@media screen and (min-width: 20rem) {
+   body{
+    background-color:#d5e1ef;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+   }
+   .container{
+    width: 15rem;
+    border-radius: 0.8rem;
+    overflow: hidden;
+    padding: 0.8rem;
+    background-color: white;
+   }
+   img{
+    width: 15rem;
+    border-radius: 0.8rem;
+   }
+   h1{
+    font-size: 1.6rem;
+    text-align: center;
+   }
+   p{
+    text-align: center;
+   }
+}
